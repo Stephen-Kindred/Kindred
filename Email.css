@@ -1,0 +1,58 @@
+.email-section{
+  position: relative;
+}
+
+
+.email-input{
+  width:150px;
+  height: 35px;
+  border: 4px solid teal;
+  position: absolute;
+  margin-left: 5px;
+  margin-top:10px;
+}
+.submit{
+  width:6rem;
+  height: 2.6rem;
+  background-color: dodgerblue;
+  border-radius: 5px;
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 5px;
+  box-shadow: 0 2px 15px 0 rgba(0,0,1,.4)
+  
+}
+.subscribe-form{
+  width: 250px;
+  height:350px;
+  margin-top: 10px;
+  padding-top: 5px;
+  
+  
+}
+.checkbox{
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 5px;
+  
+}
+.checkbox-text{
+  position: absolute;
+  margin-top:70px;
+  margin-left: 35px;
+}
+legend{
+  font-family: Times New Roman;
+  color: red;
+  font-weight: bold;
+  font-size:16px;
+  font-style: italic;
+  margin-top: 8px;
+  padding: 3px 3px;
+  
+}
+.design{
+    background-color:wheat;
+    width: 100%;
+    height: 0.3rem;
+}
